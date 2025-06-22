@@ -1,16 +1,34 @@
-# My Portfolio
+# 📱 My Portfolio – Flutter App
 
-A new Flutter project.
+Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio app built using Flutter. This app showcases a developer's personal brand, experience, and skills in a beautifully designed and user-friendly layout.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔥 Beautiful & minimal user interface
+- 🧑‍💼 About Me section
+- 📂 Projects showcase
+- 📫 Contact information
+- 🌐 External link support using `url_launcher`
+- 📱 Responsive design for all screen sizes
+- 🧠 State management with `Provider`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home | Projects | Contact |
+|------|----------|---------|
+| ![home](assets/screenshots/home.png) | ![projects](assets/screenshots/projects.png) | ![contact](assets/screenshots/contact.png) |
+
+> _Note: You can replace these with your own screenshots stored in `assets/screenshots/`._
+
+## 🚀 Getting Started
+
+Follow these instructions to get a local copy of the app up and running:
+
+```bash
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio
+flutter pub get
+flutter run
