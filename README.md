@@ -24,19 +24,14 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 > _Note: You can replace these with your own screenshots stored in `assets/screenshots/`._
 
 
----
-
-### 🛠️ Tech Stack
-
-```markdown
 ## 🛠️ Tech Stack
 
-**Flutter** – UI toolkit for building natively compiled applications
-**Dart** – Programming language optimized for UI
-**Provider** – Lightweight state management
-**HTTP** – To fetch data from APIs or external services
-**URL Launcher** – To open external links from the app
-**Rename App** – For customizing your app’s display name and package ID
+- Flutter – UI toolkit for building natively compiled applications
+- Dart – Programming language optimized for UI
+- Provider – Lightweight state management
+- HTTP – To fetch data from APIs or external services
+- URL Launcher – To open external links from the app
+- Rename App – For customizing your app’s display name and package ID
 
 
 
@@ -44,7 +39,6 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 
 The app uses the following main dependencies:
 
-```yaml
 dependencies:
   flutter:
     sdk: flutter
