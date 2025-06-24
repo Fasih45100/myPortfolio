@@ -29,7 +29,7 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 | About |
 ![projects](lib/screenshot/Screenshot02about_20250623_084405.jpg) 
 | Contact |
-![contact](assets/screenshots/contact.png) |
+![contact](lib/screenshot/Screenshot03C_20250623_084410.jpg)
 
 
 
