@@ -25,8 +25,7 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 </p>
 
 | Home | 
-![App Screenshot](lib/screenshot/Screenshot01_20250623_084358.jpg)  
-![projects](lib/screenshot/Screenshot02about_20250623_084405.jpg) 
+![App Screenshot](lib/screenshot/Screenshot01_20250623_084358.jpg)  ![projects](lib/screenshot/Screenshot02about_20250623_084405.jpg) 
 ![contact](assets/screenshots/contact.png) |
 
 
