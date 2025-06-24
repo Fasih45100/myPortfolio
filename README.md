@@ -16,7 +16,13 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 - 🧠 State management with `Provider`
 
 ## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
+<p align="center">
+  <img src="lib/screenshot/screen1.png" alt="Home" width="200"/>
+  <img src="lib/screenshot/screen2.png" alt="Projects" width="200"/>
+  <img src="lib/screenshot/screen3.png" alt="Contact" width="200"/>
+</p>
 
 | Home | 
 ![App Screenshot](lib/screenshot/Screenshot01_20250623_084358.jpg)  
