@@ -17,9 +17,8 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 
 ## 📸 Screenshots
 
-| Home | Projects | Contact |
-|------|----------|---------|
-| ![home](assets/screenshots/home.png) | ![projects](assets/screenshots/projects.png) | ![contact](assets/screenshots/contact.png) |
+| Home | 
+![App Screenshot](Screenshot01_20250623_084358.png)     | ![projects](assets/screenshots/projects.png) | ![contact](assets/screenshots/contact.png) |
 
 > _Note: You can replace these with your own screenshots stored in `assets/screenshots/`._
 
