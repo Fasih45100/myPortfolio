@@ -19,17 +19,10 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="lib/screenshot/screen1.png" alt="Home" width="200"/>
-  <img src="lib/screenshot/screen2.png" alt="Projects" width="200"/>
-  <img src="lib/screenshot/screen3.png" alt="Contact" width="200"/>
+  <img src="lib/screenshot/Screenshot01_20250623_084358.jpg" alt="Home" width="200"/>
+  <img src="lib/screenshot/Screenshot02about_20250623_084405.jpg" alt="About" width="200"/>
+  <img src="lib/screenshot/Screenshot03C_20250623_084410.jpg" alt="Contact" width="200"/>
 </p>
-
-| Home | 
-![App Screenshot](lib/screenshot/Screenshot01_20250623_084358.jpg)  
-| About |
-![projects](lib/screenshot/Screenshot02about_20250623_084405.jpg) 
-| Contact |
-![contact](lib/screenshot/Screenshot03C_20250623_084410.jpg)
 
 
 
