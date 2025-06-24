@@ -15,9 +15,7 @@ Welcome to **My Portfolio**, a clean, elegant, and responsive personal portfolio
 - 📱 Responsive design for all screen sizes
 - 🧠 State management with `Provider`
 
-## 📸 Screenshots
 <h2>📸 Screenshots</h2>
-
 <p align="center">
   <img src="lib/screenshot/Screenshot01_20250623_084358.jpg" alt="Home" width="200"/>
   <img src="lib/screenshot/Screenshot02about_20250623_084405.jpg" alt="About" width="200"/>
